@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋👏नमस्ते, I'm Amit Singh</h1>
+<h1 align="center">Hi 👋👏नमस्ते, I'm Himanshi Gupta</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img width="100%" height="300px"  object-fit="cover"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" />
+<img width="100%" height="300px"  object-fit="cover"  src="[https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966)" alt="" />
 
 
 ## 💫 About Me:
